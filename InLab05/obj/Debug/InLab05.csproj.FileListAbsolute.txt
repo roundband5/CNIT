@@ -1,0 +1,10 @@
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\bin\Debug\InLab05.exe.config
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\bin\Debug\InLab05.exe
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\bin\Debug\InLab05.pdb
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.csprojAssemblyReference.cache
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.Form1.resources
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.Properties.Resources.resources
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.csproj.GenerateResource.cache
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.csproj.CoreCompileInputs.cache
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.exe
+W:\CNIT155\In_Labs\EdwardChang InLab05\InLab05\InLab05\obj\Debug\InLab05.pdb
